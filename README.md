@@ -1,5 +1,7 @@
 # EmberCLI Rails
 
+This is an fork of the [ember-cli-rails gem](https://github.com/rwz/ember-cli-rails). This adds support for older Rails 3.2.x apps. But I offer no guarantees that it’ll work for you.
+
 EmberCLI Rails is an integration story between (surprise suprise) EmberCLI and
 Rails. It is designed to provide an easy way to organize your Rails backed
 EmberCLI application with a specific focus on upgradeability. Rails and Ember
