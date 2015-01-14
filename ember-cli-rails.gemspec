@@ -13,5 +13,4 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 1.9.3"
 
   spec.add_dependency "railties",        "~> 3.0"
-  spec.add_dependency "sprockets-rails", "~> 2.0"
 end
